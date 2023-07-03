@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://i.ibb.co/ZJHrYHq/6Engpc.png" width="100"/>
+  <img src="https://i.ibb.co/ZJHrYHq/6Engpc.png" width="1000"/>
 </div>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Rodriguez
+Hi My name is Brian Rodriguez
 =======================================================================================================================================
 
 Software Developer
