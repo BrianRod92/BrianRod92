@@ -1,16 +1,14 @@
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Rodriguez
 =======================================================================================================================================
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/20/b3/8d/20b38db5851527b0e9fae0d997cccbde.jpg" width="1000"/>
-</div>
+
+Software Developer
+------------------
 
 As a passionate and empathetic software developer, I'm thrilled to share my journey with you. Graduating from a transformative bootcamp, I acquired the most essential tools to flourish in the dynamic tech industry. The experience has been a true eye-opener, allowing me to embrace challenges head-on and continuously grow my skills. Coding is not just a profession for me; it's a heartfelt passion. I find immense joy in crafting elegant and efficient solutions to real-world problems. My journey as a graphic designer before transitioning to development has endowed me with a unique perspective and a keen eye for aesthetics. This blend of creativity and technical acumen drives my approach to building user-friendly applications that deliver outstanding experiences. My GitHub repositories showcase the projects I've worked on during my bootcamp and beyond, reflecting my eagerness to learn and my dedication to building quality software. I believe in the power of collaboration and open-source contributions, as they enable us to uplift and inspire one another. I am continuously seeking opportunities to expand my comprehension and dive deeper into cutting-edge technologies. I'm enthusiastic about exploring new domains, learning from diverse teams, and taking on challenges that push the boundaries of what I can achieve. Together, we can shape the future of technology while making a positive impact on the lives of users worldwide. Thank you for visiting, and I look forward to connecting with you soon!
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [rodriguezantoniobrian@gmail.com](mailto:rodriguezantoniobrian@gmail.com)
 *   🧠  I'm learning React Context
-*   🚀  I am currently working on a niche app for post-partum women that helps create workout, and eating plans to enhance their experience from child labor and beyond.
 *   🤝  I'm open to collaborating on Projects that improve the human experience
 *   ⚡  The only way to see beyond is to stand in the unknown. - Me### Skills 
 <p align="left">
