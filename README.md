@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Rodriguez
 =======================================================================================================================================
-
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/20/b3/8d/20b38db5851527b0e9fae0d997cccbde.jpg" width="1000"/>
+</div>
 Software Developer
 ------------------
 
@@ -9,6 +11,7 @@ As a passionate and empathetic software developer, I'm thrilled to share my jour
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [rodriguezantoniobrian@gmail.com](mailto:rodriguezantoniobrian@gmail.com)
 * 🧠  I'm learning React Context
+* 🚀  I am currently working on a niche app for post-partum women that helps create workout, and eating plans to enhance their experience from child labor and beyond.
 * 🤝  I'm open to collaborating on Projects that improve the human experience
 * ⚡  The only way to see beyond is to stand in the unknown. - Me
 
@@ -39,7 +42,7 @@ As a passionate and empathetic software developer, I'm thrilled to share my jour
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/BrianRod92" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/brian-rodriguez-241872274" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
