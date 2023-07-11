@@ -47,6 +47,7 @@ As a passionate and empathetic software developer, I'm thrilled to share my jour
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BrianRod92"><img src="https://github-readme-stats.vercel.app/api?username=BrianRod92&show_icons=true&hide=stars,&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=272727&hide_border=true&show_icons=true" alt="BrianRod92's GitHub stats" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianrod92&show_icons=true&locale=en&title_color=2BE73C&text_color=FFFFFF&icon_color=2BE73C&bg_color=272727&hide_border=true" alt="Git Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brianrod92&show_icons=true&locale=en&layout=compact&title_color=2BE73C&text_color=FFFFFF&icon_color=2BE73C&bg_color=272727&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages" /></p>
 
-<a href="https://github.com/BrianRod92" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianRod92&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
