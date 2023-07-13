@@ -6,7 +6,7 @@ As a passionate and empathetic software developer, I'm thrilled to share my jour
 
 <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpsaDV5NG52OHc5OWFibjUwbnRxcmpqNWltMnowcmJmNzN3Y21rbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
-* 🌍  I'm based in New York
+* 🌍  I'm based in Rhode Island
 * ✉️  You can contact me at [rodriguezantoniobrian@gmail.com](mailto:rodriguezantoniobrian@gmail.com)
 * 🧠  I'm learning React Context
 * 🚀  I am currently working on a niche app for post-partum women that helps create workout,
